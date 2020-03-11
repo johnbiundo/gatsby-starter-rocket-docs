@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `@rocketseat/gatsby-theme-docs`,
-    defaultTitle: `@rocketseat/gatsby-theme-docs`,
-    siteTitleShort: `gatsby-theme-docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
+    siteTitle: `John Site`,
+    defaultTitle: `John Site`,
+    siteTitleShort: `John Site`,
+    siteDescription: `John Site`,
     siteUrl: `https://rocketdocs.netlify.com`,
-    siteAuthor: `@rocketseat`,
+    siteAuthor: `John Site`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
     themeColor: `#7159c1`,
-    footer: `Theme by Rocketseat`,
+    footer: `John Site`,
   },
   plugins: [
     {
