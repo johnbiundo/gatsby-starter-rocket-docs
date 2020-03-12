@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `John Great Site`,
+    siteTitle: `John Best Site`,
     defaultTitle: `John Great Site`,
     siteTitleShort: `John Great Site`,
     siteDescription: `John Great Site`,
