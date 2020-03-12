@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `John Site`,
-    defaultTitle: `John Site`,
-    siteTitleShort: `John Site`,
-    siteDescription: `John Site`,
+    siteTitle: `John Great Site`,
+    defaultTitle: `John Great Site`,
+    siteTitleShort: `John Great Site`,
+    siteDescription: `John Great Site`,
     siteUrl: `https://rocketdocs.netlify.com`,
     siteAuthor: `John Site`,
     siteImage: `/banner.png`,
